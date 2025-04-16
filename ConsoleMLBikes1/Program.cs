@@ -16,7 +16,8 @@ namespace ConsoleMLBikes
 
             // Dataset 
             //string dataPath = "Data/bike_sharing.csv"; // Copy to Output Directory
-            string dataPath = "Data/bike_sharing_1000.csv";
+            //string dataPath = "Data/bike_sharing_1000.csv";
+            string dataPath = "Data/bike_sharing_2000.csv";
 
 
             // Load data to ML data structure
